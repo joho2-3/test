@@ -1,0 +1,45 @@
+.jigoshop_price_filter form {clear: both;}
+.price_slider {margin: 1em 0 2em 0; float: left; width: 100%;}
+.price_slider_amount .button {margin: -2px 10px 0 0;}
+.products li {margin: 0 30px 40px 0;}
+a.button, button.button, input.button, #review_form #submit, .button-alt {color: #666666 !important; background: #f8f8f8; box-shadow: 0 1px 1px #999; border: 1px solid #aaaaaa; border-radius: 5px; font-weight: bold; float: none; display: inline-block; padding: 6px 12px 7px; text-shadow: 0 1px 0 #ffffff; margin-top: 0 !important; font-size: 0.8571em !important;}
+.button-alt:hover, a.button:hover, button.button:hover, input.button:hover, #review_form #submit:hover {background: #eee; text-decoration: none;}
+#jigo-content h1.page-title {font-size: 1.5em; margin: 0 0 1em;}
+ul.products {clear: both; margin: 2em 0 1em 0;}
+#jigo-single-product {float: left; width: 96% !important; padding: 2% !important; position: relative; background: #FFF; border: 1px solid #ddd; margin: 0 0 2em 0 !important; box-shadow: 0 0 0 3px #F2F2F2; -moz-box-shadow: 0 0 0 3px #f2f2f2; -webkit-box-shadow: 0 0 0 3px #F2F2F2;}
+#jigo-single-product ul.products li.product {float: left; width: 100% !important; padding: 2% 0 !important; position: relative; background: transparent; border: 0 none; margin: 0 0 2em 0 !important; box-shadow: 0 0 0 3px #FF; -moz-box-shadow: 0 0 0 3px #FFF; -webkit-box-shadow: 0 0 0 3px #FFF;}
+#jigo-single-product .related h2 {font-size: 1.5em; margin: 2em 0 1em; padding: 0 0 5px; color: #444; border-bottom: 1px solid #ddd;}
+div.product #tabs ul.tabs {padding: 12px 12px 0;}
+#tab-description p,#tab-reviews p {font-size: 1.05em;}
+#jigo-single-product div.product div.images {max-width: 350px; width: auto;}
+#jigo-single-product h1.page-title {font-size: 2.125em; margin: 0;}
+#jigo-single-product p.price {background: none repeat scroll 0 0 #D73828; border-radius: 0 0 0 0; color: #FFFFFF !important; display: inline-block; float: left; font-size: 1.35em; margin: 0.5em 0; padding: 0.5em 1.125em;}
+.product-with-desc ul.products li.product {float: left; width: 96% !important; padding: 2% !important; position: relative; background: #FFF; border: 1px solid #ddd; margin: 0 0 2em 0 !important; box-shadow: 0 0 0 3px #F2F2F2; -moz-box-shadow: 0 0 0 3px #f2f2f2; -webkit-box-shadow: 0 0 0 3px #F2F2F2;}
+#custom .product-with-desc ul.products li.product h3:first-of-type {display: none;}
+#custom .product-with-desc ul.products li .post-product-right {margin-left: 170px; padding: 5px 20px 20px 0;}
+#custom .product-with-desc ul.products li h1.product-post.post-title {font-size: 2em; margin: 0; padding: 0px; float: left; width: 100%;}
+#custom .product-with-desc ul.products li h1.post-title a {color: #222 !important; text-decoration: none;}
+#custom .product-with-desc ul.products li h1.post-title a:hover {color: #D73828 !important; text-decoration: none;}
+#custom .product-with-desc ul.products li .post-content {margin: 0px; padding: 0px; float: left; width: 100% !important; font-size: 1.05em; line-height: 1.7em !important;}
+#custom .product-with-desc ul.products li .post-content p {margin: 0 0 1em; padding: 0px;}
+#custom .product-with-desc ul.products li .product-thumb {width: 150px; height: auto; float: left;}
+#custom .product-with-desc ul.products li .product-thumb img {margin:0 !important; border:0 none !important; width: 150px; height:auto !important;}
+#custom .product-with-desc ul.products li a strong {display: none;}
+#custom .product-with-desc ul.products li .post-product-right a.button {display: inline; float: left;}
+#custom .product-with-desc ul.products li .post-product-right span.price,.js_widget_product_price {background: none repeat scroll 0 0 #D73828; border-radius: 0 0 0 0; color: #FFFFFF !important; display: inline-block; float: left; font-size: 1.35em; margin: 0.5em 0; padding: 0.5em 1.125em;}
+.js_widget_product_price {font-size: 0.85em; padding: 0.25em 0.65em; margin: 0;}
+.widget .cart_list li {width: 100%; margin:0 0 1em !important; padding:0 0 1em !important; float: left; border-bottom: 1px solid #ddd;}
+.widget .cart_list li:last-of-type {border-bottom: 0 none; padding:0 !important;}
+ul.cart_list li img, ul.product_list_widget li img {margin: 10px 15px 0 0;}
+.products li .post-product-right span.price del, #jigo-single-product .summary del,.js_widget_product_price del {font-size: 10px; line-height: 10px; margin: -2px 5px 0 0; display: inline; color: #fff;}
+.products li .post-product-right span.price br,#jigo-single-product .summary br,.js_widget_product_price br {display: none;}
+.products li .post-product-right span.price ins,#jigo-single-product .summary ins,.js_widget_product_price ins {display: inline; margin: 0; font-size: 0.8em; font-style: italic; color: #fff9c0; background: transparent;}
+div.product div.summary {float: left; max-width: 400px; width: auto; margin: 0 0 0 20px;}
+.cart-collaterals .cart_totals {float: right; margin: 10px 0 0; width: 450px; text-align: right;}
+.cart-collaterals .cart_totals h2 {margin: 0 0 1em;}
+.shipping_calculator h2 {font-size: 1.2em;}
+.actions a {text-decoration: none !important;}
+.widget.jigoshop_cart .total {border-top: 3px double #ddd; padding: 4px 0 4px; margin: 0!important; clear: both;}
+#tab-reviews ol.commentlist li {background: transparent !important;}
+a.button, button.button, input.button, #review_form #submit {background: #E5E1DA !important;padding: 10px 15px !important;}
+.button-alt {padding:10px 15px !important;color: #ffffff !important;}

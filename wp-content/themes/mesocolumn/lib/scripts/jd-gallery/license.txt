@@ -1,0 +1,7 @@
+Dual licensed under the MIT and GPL licenses:
+
+mootools.js
+ * 	http://www.opensource.org/licenses/mit-license.php
+ 
+jd.gallery.js
+ * 	http://www.gnu.org/licenses/gpl.html

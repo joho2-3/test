@@ -1,0 +1,95 @@
+-------------------------------------------------------------------------
+Frequently Ask Questions
+-------------------------------------------------------------------------
+/////////////////////////////////////////////////////////////////////////
+important note:
+if you did not use child theme and want to add custom functions, create a 
+new php file in wp-content/ and name it meso-custom-functions.php
+all custom function should be input in this file
+/////////////////////////////////////////////////////////////////////////
+
+1.How to setup homepage featured category?
+-  go to wp-admin->appeareance->customizer->home featured category->choose category to featured
+
+2.The shadow on top navigation is missing?
+- the shadow will dissapear if background color or image are saved in wp-admin->appeareance->background
+- alternate solution: add this to customizer->general->custom css
+ 
+#top-navigation:before,#top-navigation:after {display:none;}
+
+3.How to remove the responsive of the theme?
+- go to customizer->miscellaneous->responsive layout->disable
+
+4.I've done everything, save options and setup widget but the site still look the same?
+- if you have any cache plugin installed, clear the cache or your browser cache
+
+5.How to add searchform in top navigation?
+- add this to your functions.php
+
+function meso_add_custom_searchform() { 
+return get_search_form();
+}
+add_action('bp_inside_top_nav','meso_add_custom_searchform',20);
+
+6. Where can i custom css style?
+- go to customizer->general->custom css
+
+7. I want to remove builtin shop style for woocommerce or jigoshop
+- go to customizer->general->posts->enable custom shop style->disable
+
+8. i want to edit or customize the theme template?
+- best or safe solution would be using child theme
+http://codex.wordpress.org/Child_Themes
+
+9. How do i add the menu small descriptions like the demo?
+- follow step 3 in this tutorial
+http://www.dezzain.com/wordpress-tutorials/how-to-use-wordpress-navigation-menus/
+
+10. is the theme multisite support?
+- yes. it is 
+
+11. theme advertisement options did not save my script code?
+- for security reason, we disable script insertion in theme options. however you can choose one of this solution.
+a) use wp plugin http://wordpress.org/plugins/shortcoder/ and copy paste the shortcode into ad textarea setting.
+b) add this to your functions.php
+
+function meso_allow_scripts() { return 'meso_sanitize_null'; }
+add_filter('meso_textarea_settings_filter','meso_allow_scripts');
+    
+12. Slider not working?
+- make sure you have at least 2 posts featured for the slider to work properly.
+ 
+13. i have more question needed to ask?
+- some question sometime already answered by theme author, go to http://www.dezzain.com/wordpress-themes/mesocolumn/
+search for comments or search answers in wordpress forums http://wordpress.org/support/theme/mesocolumn
+
+14. I need to add custom function to theme? how?
+- read the note above this faq.
+
+15. How to disable the shadow in archive header?
+- add this to customizer->general->custom css
+
+#custom h2.header-title:before,#custom h2.header-title:after { display:none; }
+
+16. How to add description in archive header?
+- add this to your functions.php
+
+function meso_add_cat_desc() {
+$get_catdesc = category_description(); if($get_catdesc) {
+echo $get_catdesc;
+}
+}
+add_action('bp_inside_headline', 'meso_add_cat_desc');
+
+17. How to use the tabber?
+- first go to wp-admin->appeareance->widgets, drag any item from left into 'Tabbed Sidebar'. after that drag left item 'tabber' into 'Right Sidebar'. if 'Tabbed Sidebar' is empty, the tab would not show in right sidebar.
+
+
+18. How to use mobile menu?
+- setup your mobile menu in wp-admin->appeareance->menus->location->mobile
+
+19. Can i remove the theme credit in footer?
+- we provide option for you to disable the theme footer credit in customizer->general->misc->theme footer credit. however we appreciate if you leave the footer credit link.
+
+20. Where can i offer donation to support the theme?
+- we apprecite some love from our theme users, you can go to our donation page http://www.dezzain.com/donation

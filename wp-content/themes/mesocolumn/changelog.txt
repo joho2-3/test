@@ -1,0 +1,177 @@
+/////////////////////////////////////////
+//changelog
+/////////////////////////////////////////
+v1.6.5
+- tested with WordPress 4.4.1
+- tested with PHP7 and reconstruct custom functions
+- customizer now fully supported
+- updated Google web fonts listing
+- remove theme options. now using customizer api setting
+- remove category color options. now on posts->category or taxonomy->edit category color
+- remove page color options. now on edit page->page color option
+- remove get_theme_option(), using faster setting query with get_theme_mod()
+- remove 'sidebar banner setting' in new customizer setting
+- remove dropdown mobile menu and added new mobile custom menu
+- fixed image alt did not follow image alt text options in media setting
+- fixed post author link with space in url
+- fixed homepage featured category messed up if slider did not show up
+- fixed top header advertisement shortcode issue
+- new option for text count in homepage featured category
+- new option to enable and disable first image grab for featured thumbnails
+- new option separating article and breadcrumb schema options
+- new custom post type multi widget
+- new faq.txt
+
+
+v1.6.4.1
+- fixed woocommerce function error after update woocommerce v2.3.2
+
+v1.6.4
+- replace TEMPLATE_DOMAIN language string to theme slug 'mesocolumn' for theme submit guideline
+- separate responsive css with style css
+- fixed margin error for left and right in larger browser size
+- add ins background transparent style to remove yellow background
+- featured slider with post ID now support all custom post type
+- cache category color for query optimization
+- updated superfish js and css to latest version
+- added font weight for font options
+- added thumbnail, medium or large featured image option for blog and archive list
+- added default blog or magazine style for blog post
+- added image size option for featured category homepage
+- added options to enable or disable built-in schema.org markup
+- added options to enable or disable responsiveness
+
+
+v1.6.3
+- Added microformat
+- Fixed Ads Right Widget Shortcode issue
+
+v1.6.2
+- Tested compatible with WordPress 3.8 and latest BBPress, BuddyPress, Woocommerce and Jigoshop 
+- added thumbnail and medium choice for featured category widgets
+- added rtl style support
+- added featured slider height options
+- fixed buddypress random group function error bug
+- fixed theme options->general reset bug
+- fixed comment_template inside child theme issue
+- validate HTML5
+- update fontawesome to latest version and remove from theme. use netdna cdn source instead
+- fix spelling error for advertisment.php file
+- Right advertisement block and sidebar tab are now sortable via widget
+- remove custom-functions.php in theme and moved to wp-content. read faq.txt
+
+
+v1.6.1
+- added tabbed for theme options
+
+v1.6
+- optimize database save options into array with register_setting() for lesser db query *need to re-save all options
+- replace h1 with h2 in archive/index page for seo purpose.
+- logo and fav icon upload disable, now use full path url save instead.
+- Remove/disable script insertion in theme options for security reason. Read FAQ #11 how to use script with shortcode
+
+v1.5.8 - v1.5.9
+- skip version
+
+v1.5.7
+- Tested compatible with WordPress 3.7 and latest BBPress, BuddyPress, Woocommerce and Jigoshop
+- Fixed language string not working in theme options
+- Edit featured category option using category id to fix none-english and latin greek character slug bug
+  *you may need to resave the featured category in theme options
+- Fixed missing BBpress login widget in Firefox
+- Added support for jigoshop ecommerce plugin
+- new option: disable or enable shop custom grid style
+- Added 4 more Homepage Featured Category to total of 10
+- Added category color support for woocommerce or jigoshop category
+- removed front-page.php
+- moved custom.css to wp-admin->appereance->custom css
+
+v1.5.6
+- remove remaining schema.org markup for header,sidebar and footer
+- fixed homepage featured category with '&' in category name
+  *you may need to resave the featured category in theme options
+- re-edit theme footer credits
+
+v1.5.5
+- moved custom.css to theme root for easier editor edits
+- redefine functions prefix
+- new option: control excerpt word count
+- new option: editable read more text
+- new option: hide and show comment close notice
+- new option: related post count
+- new option: enable or disable archives header
+
+v1.5.4
+- removed none gpl subtle background image *did not have any use in theme btw
+- change theme footer credits link
+- home featured category count now controlable via theme options
+
+v1.5.3
+- skipped version *ignore
+
+v1.5.2
+- removed addons folder and schema.php *both are now plugin dependable
+- added 2 more featured category for homepage
+- change featured image alt for better seo purpose
+
+v1.5.1
+- tested compatible with latest BuddyPress 1.8.1
+- add compatibility with WordPress MU Sitewide Tag Featured Images Import
+- replace get_the_title with the_title_attribute in title html for images and links
+
+v1.5
+- starting from v1.5, addons folder will be in separate download to meet the requirement of theme submission in wordpress.org theme reposity.
+- a simple download and drop the addons folder into theme will activate all the extra features
+
+v1.4.4
+- fixed missing google analystic theme options
+- minor nav error fix
+
+v1.4.3
+- update slider featured image get_image
+- add more hook action for better editing in child theme
+- update readme.txt with correct license and copyright
+- tested with latest woocommerce and bbpress plugin
+- moved all none compile theme guideline component into /addons/ folder
+
+v1.4.2
+- moved any inline style in template into wp_enqueue_style
+- fixed debug error in theme options
+- add header text color option in custom header
+- add shortcode supported for theme options advertisement
+- update readme.txt with themes css and js license and copyright
+
+v1.4.1
+- fixed custom.js error in bbpress and woocommerce page
+- add navigation for single attachment gallery
+- add arrow navigation for featured slider
+- removed none-gpl license javascripts
+
+v1.4
+- tested compatible with latest WordPress 3.5.2 and BuddyPress 1.8
+- moved wp_enqueue_script() call to footer
+- added option to enable WordPress breadcrumbs
+- update twitter api functions
+- added option to disable built-in Facebook Open Graph
+- added 'page color options' similiar to 'category color options'
+- fixed ie8 featured grid error
+- update fancybox to latest version
+
+v1.3
+- update twitter widget and social counter with twitter api v1.1
+- add global twitter dev api key and token setting in theme options
+- remove lightbox rel in comment text
+
+v1.2
+- use category id string to store category color options
+- fixed reset in category color options
+
+v1.1
+- follow Theme Unit Test Guideline
+- fix buddypress sidebar
+- theme check passed
+- add child theme support
+
+
+v1.0
+- initial release

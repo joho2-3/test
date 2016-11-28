@@ -1,0 +1,34 @@
+body {direction: rtl;unicode-bidi: embed;text-align:right;}
+html {overflow-y: scroll;overflow-x: hidden;overflow: -moz-scrollbars-vertical;} 
+.sf-menu li {float: right;}
+#siteinfo {float: right;text-align:right;}
+#topbanner {float: left;}
+.footer-left {float: right;text-align:right;}
+.footer-right {float: left;text-align:left;}
+.footer-right ul {float:left;}
+.footer-right ul li {margin: 0px 13px 0px 0px;}
+aside.home-feat-cat .apost .feat-thumb {float: right;}
+img.home-feat-rss {float: left;}
+.post-meta i {display: inline;}
+.wp-caption .wp-caption-text:before {content: '' !important;}
+.wp-caption .wp-caption-text {padding: 10px 10px 5px 10px;}
+#commentpost #rssfeed {float: right;width: auto;text-align: right;}
+#commentform {width: 100%;}
+p.logged-in-as {float: right;width: auto;}
+p.logged-in-as a {display:inline;}
+#custom .form-submit #submit {float:right;}
+.widget .item-options {left: 0px;}
+.recent-postcat img.alignleft {float:right;}
+#custom ul.recent-postcat li.has_thumb .feat-post-meta {margin: 0 75px 0 0;}
+#custom .gravatar_recent_comment img {float: right;margin: 0 0 0 15px;}
+#custom .widget li,.flickrPhotos.noapi .flickr_badge_image, .flickrPhotos li{float:right !important;}
+#custom #social_counter_box .sc_profile img {float: right;margin: 0 0 0 20px;}
+#woo-container span.price {float: right !important;}
+#custom .product-with-desc ul.products li .product-thumb {float: right !important;}
+#custom .product-with-desc ul.products li .post-product-right {margin-right: 180px !important;}
+.product-categories span.count {position:absolute;left:0;}
+#post-entry article .post-more a {float:right;}
+aside.home-feat-cat .apost img.alignleft {float:right;margin:0;padding:0;}
+aside.home-feat-cat .apost .feat-right {margin: 0em 140px 0em 0px;}
+.jdGallery .slideInfoZone h3{text-align:right;}
+.widget-area aside ul li ul li {padding: 0px 15px 0px 0px;background: url(images/children-rtl.png) no-repeat right 3px;}

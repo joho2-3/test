@@ -1,0 +1,1047 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: themes\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-01-21 01:24+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ..\\\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:13 lib/functions/hooks-functions.php:606
+msgid "Error 404"
+msgstr ""
+
+#: 404.php:16
+msgid "The page you requested cannot be found!"
+msgstr ""
+
+#: 404.php:17
+msgid "Perhaps you are here because:"
+msgstr ""
+
+#: 404.php:19
+msgid "The page has moved"
+msgstr ""
+
+#: 404.php:20
+msgid "The page url has been change"
+msgstr ""
+
+#: 404.php:21
+msgid "The page no longer exist"
+msgstr ""
+
+#: 404.php:23
+#, php-format
+msgid ""
+"Don't worry, we are still here, just <a href='%s'>click here</a> to go back "
+"to civilization."
+msgstr ""
+
+#: comments.php:7
+msgid "No Comments Yet"
+msgstr ""
+
+#: comments.php:7
+msgid "1 Comment Already"
+msgstr ""
+
+#: comments.php:7
+msgid "% Comments Already"
+msgstr ""
+
+#: comments.php:13
+msgid "stay updated with"
+msgstr ""
+
+#: comments.php:13
+msgid "Subscribe to comments feed"
+msgstr ""
+
+#: comments.php:44
+msgid "Sorry, comments are closed for this post"
+msgstr ""
+
+#: functions.php:32 lib/functions/theme-functions.php:249
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:33
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:34
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:35
+msgid "Mobile Menu"
+msgstr ""
+
+#: functions.php:93 lib/functions/hooks-functions.php:440
+msgid "Home"
+msgstr ""
+
+#: image.php:18
+msgid "&larr; Previous"
+msgstr ""
+
+#: image.php:19
+msgid "Next &rarr;"
+msgstr ""
+
+#: image.php:32
+#, php-format
+msgid ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class="
+"\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></"
+"span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; "
+"%5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</"
+"a>."
+msgstr ""
+
+#: image.php:43
+msgid "Edit"
+msgstr ""
+
+#: lib/bbpress/bb-theme-functions.php:32
+msgid "Forum Sidebar"
+msgstr ""
+
+#: lib/bbpress/bb-theme-functions.php:34
+msgid "Widget area for BBPress Forum Pages"
+msgstr ""
+
+#: lib/buddypress/bp-theme-functions.php:62
+#: lib/buddypress/bp-theme-functions.php:69
+msgid "BuddyPress Random Groups"
+msgstr ""
+
+#: lib/buddypress/bp-theme-functions.php:63
+msgid "Displays your BuddyPress Groups Randomly."
+msgstr ""
+
+#: lib/buddypress/bp-theme-functions.php:85
+msgid "Name"
+msgstr ""
+
+#: lib/buddypress/bp-theme-functions.php:110
+msgid "BuddyPress Sidebar"
+msgstr ""
+
+#: lib/buddypress/bp-theme-functions.php:112
+msgid "Widget area for BuddyPress Pages"
+msgstr ""
+
+#: lib/functions/color-functions.php:10
+msgid "Color"
+msgstr ""
+
+#: lib/functions/color-functions.php:107
+msgid "Choose Page Color:"
+msgstr ""
+
+#: lib/functions/color-functions.php:119
+msgid "Add page color for custom menu"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:129
+msgid "Choose a category"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:153
+msgid "General"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:154
+msgid "Genaral settings"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:162
+msgid "Home Featured Category"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:163
+msgid "Home featured categories settings"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:172
+msgid "Advertisement"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:173
+msgid "Site advertisement settings"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:188
+msgid "Fonts"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:189
+msgid "Save your site fonts settings"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:197
+msgid "Posts"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:198
+msgid "Save your posts settings"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:206
+msgid "Slider"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:207
+msgid "Save your slider settings"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:216
+msgid "Choose Category:"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:217
+msgid "Choose which category to featured"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:225
+msgid "Layout & Style"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:226
+msgid "Home featured category layout settings"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:235
+msgid "Ad Location"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:236
+msgid "Advertisement location settings"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:244
+msgid "Miscellaneous"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:245
+msgid "Miscellaneous settings"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:253
+#: lib/functions/customizer-functions.php:1319
+msgid "Custom CSS"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:254
+msgid "Custom css and style settings"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:784
+msgid "Body"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:797
+#: lib/functions/customizer-functions.php:826
+#: lib/functions/customizer-functions.php:854
+msgid "font weight"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:812
+msgid "Headline"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:840
+msgid "Navigation"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:867
+msgid "Color Scheme"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:880
+msgid "Top Navigation Background Color"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:893
+msgid "Bottom Footer Background Color"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:902
+msgid "Featured Image Size"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:916
+msgid "Blog Post Style"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:928
+msgid "Enable First Image Grab for Featured Thumbnails"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:941
+msgid "Enter Post Excerpt More Text"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:950
+msgid "Enter Post Excerpt Count"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:960
+msgid "Enable Related Posts"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:979
+msgid "Choose related count"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:989
+msgid "Enable Author Bio"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:1002
+msgid "Enable Breadcrumbs"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:1015
+msgid "Enable Archive Header"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:1027
+msgid "Enable Comments Close Notice"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:1039
+msgid "Enable Comments Subscribes"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:1052
+msgid "Enable Auto Sub Category in Primary Menu"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:1065
+msgid "Enable Custom Shop Style"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:1080
+msgid "Enable Featured Slider"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:1094
+msgid "Slider Height"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:1103
+msgid "Categories ID"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:1104
+msgid ""
+"Add a list of category ids if you want to use category as featured. "
+"<em>*leave blank to use bottom post ids featured</em><br /><small>example: "
+"3,4,68</small>"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:1117
+msgid "Limit to how many posts"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:1119
+msgid "How many posts to show?"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:1127
+msgid "Posts ID"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:1128
+msgid ""
+"Add a list of post ids if you want to use posts as featured. <em>*leave "
+"blank to use above category ids featured</em><br /><strong style='font-"
+"size:13px;'>Post, Page and Custom Post Type Supported</strong><br /"
+"><small>example: 136,928,925,80,77,55,49</small>"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:1139
+msgid "Featured Category Layout"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:1153
+msgid "Enable Category RSS Feed Link"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:1166
+msgid "How many text count for each post"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:1182
+msgid "Category "
+msgstr ""
+
+#: lib/functions/customizer-functions.php:1184
+msgid "Choose which category to featured."
+msgstr ""
+
+#: lib/functions/customizer-functions.php:1197
+msgid "How many posts?"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:1199
+msgid "How many?"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:1211
+msgid "Top Header"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:1212
+msgid "468x60 or 728x90 Header Banner and Advertisment Embed Code"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:1219
+msgid "First Post Loop"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:1220
+#: lib/functions/customizer-functions.php:1228
+msgid ""
+"Add Embed Code or Image Banner Here<br />*&lsaquo;script&rsaquo; tag not "
+"allowed. Read faq.txt on how to use script."
+msgstr ""
+
+#: lib/functions/customizer-functions.php:1227
+msgid "Second Post Loop"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:1235
+msgid "Single Post Top"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:1236
+msgid ""
+"Insert Ads code for the single post <strong>top</strong>. It will appeared "
+"before post content. <br />*&lsaquo;script&rsaquo; tag not allowed. Read faq."
+"txt on how to use script."
+msgstr ""
+
+#: lib/functions/customizer-functions.php:1244
+msgid "Single Post Bottom"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:1245
+msgid ""
+"Insert Ads code for the single post <strong>bottom</strong>. It will "
+"appeared before post content. <br />*&lsaquo;script&rsaquo; tag not allowed. "
+"Read faq.txt on how to use script."
+msgstr ""
+
+#: lib/functions/customizer-functions.php:1253
+#: lib/functions/widget-functions.php:19
+msgid "Right Sidebar"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:1254
+msgid ""
+"Insert Ads code for the <strong>right</strong> sidebar.<br />*&lsaquo;"
+"script&rsaquo; tag not allowed. Read faq.txt on how to use script."
+msgstr ""
+
+#: lib/functions/customizer-functions.php:1262
+msgid "Header Code"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:1263
+msgid ""
+"Insert any code here. It will appeared after wp_head().<br />*&lsaquo;"
+"script&rsaquo; tag not allowed. Read faq.txt on how to use script."
+msgstr ""
+
+#: lib/functions/customizer-functions.php:1271
+msgid "Footer Code"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:1272
+msgid ""
+"Insert any code here. It will appeared after wp_footer().<br />*&lsaquo;"
+"script&rsaquo; tag not allowed. Read faq.txt on how to use script."
+msgstr ""
+
+#: lib/functions/customizer-functions.php:1282
+msgid "Theme Author Footer Credit"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:1283
+msgid ""
+"Choose to disable or enable theme author footer credit links.<br /"
+"><em>*optional, but I would appreciate if you leave the footer credit link "
+"or consider a donation to <a target='_blank' href='http://www.dezzain.com/"
+"donation'>support the theme</a></em>"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:1292
+msgid "Schema.org Markup for Posts"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:1293
+msgid "Choose to disable or enable schema markup for posts"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:1301
+msgid "Schema.org Markup for Breadcrumb"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:1302
+msgid "Choose to disable or enable schema markup for site breadcrumb"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:1310
+msgid "Responsive Layout"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:1311
+msgid ""
+"Choose to disable or enable theme responsive mode for smaller screen or "
+"mobile"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:1320
+msgid "Insert your custom css here."
+msgstr ""
+
+#: lib/functions/customizer-functions.php:1361
+msgid "Reset"
+msgstr ""
+
+#: lib/functions/customizer-functions.php:1362
+msgid ""
+"Attention! This will remove all customizations ever made via customizer to "
+"this theme!\n"
+"\n"
+"This action is irreversible!"
+msgstr ""
+
+#: lib/functions/hooks-functions.php:312
+msgid "Copyright &copy;"
+msgstr ""
+
+#: lib/functions/hooks-functions.php:312
+msgid "Y"
+msgstr ""
+
+#: lib/functions/hooks-functions.php:333 lib/functions/hooks-functions.php:336
+#, php-format
+msgid "%s Theme by Dezzain"
+msgstr ""
+
+#: lib/functions/hooks-functions.php:423
+msgid "Search for:"
+msgstr ""
+
+#: lib/functions/hooks-functions.php:423
+msgid "Search &hellip;"
+msgstr ""
+
+#: lib/functions/hooks-functions.php:423 lib/templates/default-widget.php:14
+msgid "Search"
+msgstr ""
+
+#: lib/functions/hooks-functions.php:454 lib/functions/hooks-functions.php:462
+msgid "You are here: "
+msgstr ""
+
+#: lib/functions/hooks-functions.php:476
+msgid "Search results for"
+msgstr ""
+
+#: lib/functions/hooks-functions.php:513 lib/functions/hooks-functions.php:522
+msgid "You are reading &raquo;"
+msgstr ""
+
+#: lib/functions/hooks-functions.php:611 lib/templates/headline.php:8
+#: lib/templates/headline.php:12 lib/templates/headline.php:16
+#: lib/templates/headline.php:22 lib/templates/headline.php:34
+#: lib/templates/headline.php:40
+msgid "Page"
+msgstr ""
+
+#: lib/functions/theme-functions.php:17
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: lib/functions/theme-functions.php:24 lib/functions/theme-functions.php:26
+#: lib/functions/theme-functions.php:28
+msgid "Archives for "
+msgstr ""
+
+#: lib/functions/theme-functions.php:303
+#: lib/functions/widget-functions.php:193
+msgid "Comment on"
+msgstr ""
+
+#: lib/functions/theme-functions.php:699
+msgid "F jS, Y"
+msgstr ""
+
+#: lib/functions/theme-functions.php:699
+msgid "at"
+msgstr ""
+
+#: lib/functions/theme-functions.php:701
+msgid "none"
+msgstr ""
+
+#: lib/functions/theme-functions.php:702
+#, php-format
+msgid "Comment author #%1$s on %2$s by %3$s"
+msgstr ""
+
+#: lib/functions/theme-functions.php:707
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: lib/functions/theme-functions.php:753
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: lib/functions/theme-functions.php:801
+msgid "One comment"
+msgstr ""
+
+#: lib/functions/theme-functions.php:802
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: lib/functions/theme-functions.php:803
+msgid "No Comments"
+msgstr ""
+
+#: lib/functions/theme-functions.php:806
+msgid "One pingback/trackback"
+msgstr ""
+
+#: lib/functions/theme-functions.php:807
+msgid "% pingbacks/trackbacks"
+msgstr ""
+
+#: lib/functions/theme-functions.php:808
+msgid "No pinbacks/trackbacks"
+msgstr ""
+
+#: lib/functions/theme-functions.php:811
+msgid "One trackback"
+msgstr ""
+
+#: lib/functions/theme-functions.php:812
+msgid "% trackbacks"
+msgstr ""
+
+#: lib/functions/theme-functions.php:813
+msgid "No trackbacks"
+msgstr ""
+
+#: lib/functions/theme-functions.php:816
+msgid "One pingback"
+msgstr ""
+
+#: lib/functions/theme-functions.php:817
+msgid "% pingbacks"
+msgstr ""
+
+#: lib/functions/theme-functions.php:818
+msgid "No pingbacks"
+msgstr ""
+
+#: lib/functions/theme-functions.php:876
+msgid "ID"
+msgstr ""
+
+#: lib/functions/theme-functions.php:973
+#, php-format
+msgid "Posts by %s"
+msgstr ""
+
+#: lib/functions/widget-functions.php:8
+msgid "Tabbed Sidebar"
+msgstr ""
+
+#: lib/functions/widget-functions.php:10
+msgid "Sidebar Tabbed widget area"
+msgstr ""
+
+#: lib/functions/widget-functions.php:21
+msgid "Right sidebar widget area"
+msgstr ""
+
+#: lib/functions/widget-functions.php:29
+msgid "First Footer Widget Area"
+msgstr ""
+
+#: lib/functions/widget-functions.php:31
+msgid "The first footer widget area"
+msgstr ""
+
+#: lib/functions/widget-functions.php:39
+msgid "Second Footer Widget Area"
+msgstr ""
+
+#: lib/functions/widget-functions.php:41
+msgid "The second footer widget area"
+msgstr ""
+
+#: lib/functions/widget-functions.php:49
+msgid "Third Footer Widget Area"
+msgstr ""
+
+#: lib/functions/widget-functions.php:51
+msgid "The third footer widget area"
+msgstr ""
+
+#: lib/functions/widget-functions.php:59
+msgid "Fourth Footer Widget Area"
+msgstr ""
+
+#: lib/functions/widget-functions.php:61
+msgid "The fourth footer widget area"
+msgstr ""
+
+#: lib/functions/widget-functions.php:79 lib/functions/widget-functions.php:87
+msgid "Most Comments"
+msgstr ""
+
+#: lib/functions/widget-functions.php:80
+msgid "Display your most commented posts."
+msgstr ""
+
+#: lib/functions/widget-functions.php:122
+msgid "Name for most comment(optional):"
+msgstr ""
+
+#: lib/functions/widget-functions.php:126
+msgid "Total to show: "
+msgstr ""
+
+#: lib/functions/widget-functions.php:131
+msgid "Show comments count:"
+msgstr ""
+
+#: lib/functions/widget-functions.php:133
+#: lib/functions/widget-functions.php:221
+#: lib/functions/widget-functions.php:327
+#: lib/functions/widget-functions.php:449
+msgid "yes"
+msgstr ""
+
+#: lib/functions/widget-functions.php:134
+#: lib/functions/widget-functions.php:222
+#: lib/functions/widget-functions.php:328
+#: lib/functions/widget-functions.php:450
+msgid "no"
+msgstr ""
+
+#: lib/functions/widget-functions.php:150
+#: lib/functions/widget-functions.php:157
+msgid "Recent Gravatar Comments"
+msgstr ""
+
+#: lib/functions/widget-functions.php:151
+msgid "Display your recent comments with user avatar."
+msgstr ""
+
+#: lib/functions/widget-functions.php:215
+msgid "Name for recent comment(optional):"
+msgstr ""
+
+#: lib/functions/widget-functions.php:219
+msgid "Enable avatar?:"
+msgstr ""
+
+#: lib/functions/widget-functions.php:227
+msgid "Total to show:"
+msgstr ""
+
+#: lib/functions/widget-functions.php:242
+#: lib/functions/widget-functions.php:251
+msgid "Featured Categories"
+msgstr ""
+
+#: lib/functions/widget-functions.php:243
+msgid "Display your featured category listing."
+msgstr ""
+
+#: lib/functions/widget-functions.php:290
+#: lib/functions/widget-functions.php:402
+#: lib/templates/feat-cat-meta-bottom.php:14
+#: lib/templates/feat-cat-meta-top.php:12 lib/templates/post-meta.php:30
+msgid "No Comment"
+msgstr ""
+
+#: lib/functions/widget-functions.php:290
+#: lib/functions/widget-functions.php:402
+#: lib/templates/feat-cat-meta-bottom.php:14
+#: lib/templates/feat-cat-meta-top.php:12 lib/templates/post-meta.php:30
+msgid "1 Comment"
+msgstr ""
+
+#: lib/functions/widget-functions.php:290
+#: lib/functions/widget-functions.php:402
+#: lib/templates/feat-cat-meta-bottom.php:14
+#: lib/templates/feat-cat-meta-top.php:12 lib/templates/post-meta.php:30
+msgid "% Comments"
+msgstr ""
+
+#: lib/functions/widget-functions.php:317
+#: lib/functions/widget-functions.php:429
+msgid "Title:"
+msgstr ""
+
+#: lib/functions/widget-functions.php:317
+#: lib/functions/widget-functions.php:429
+msgid "*required"
+msgstr ""
+
+#: lib/functions/widget-functions.php:321
+msgid "Category ID:"
+msgstr ""
+
+#: lib/functions/widget-functions.php:321
+msgid "*separate by commas [,]"
+msgstr ""
+
+#: lib/functions/widget-functions.php:325
+#: lib/functions/widget-functions.php:447
+msgid "Enable Thumbnails?:<br /><em>*post featured images</em>"
+msgstr ""
+
+#: lib/functions/widget-functions.php:332
+#: lib/functions/widget-functions.php:454
+msgid "Thumbnails Size?:"
+msgstr ""
+
+#: lib/functions/widget-functions.php:334
+#: lib/functions/widget-functions.php:456
+msgid "thumbnail"
+msgstr ""
+
+#: lib/functions/widget-functions.php:335
+#: lib/functions/widget-functions.php:457
+msgid "medium"
+msgstr ""
+
+#: lib/functions/widget-functions.php:340
+#: lib/functions/widget-functions.php:461
+msgid "Enable Post Meta?:<br /><em>*post date and post comments count</em>"
+msgstr ""
+
+#: lib/functions/widget-functions.php:342
+#: lib/functions/widget-functions.php:463
+msgid "Enable"
+msgstr ""
+
+#: lib/functions/widget-functions.php:343
+#: lib/functions/widget-functions.php:464
+msgid "Disable"
+msgstr ""
+
+#: lib/functions/widget-functions.php:347
+#: lib/functions/widget-functions.php:468
+msgid "Total:"
+msgstr ""
+
+#: lib/functions/widget-functions.php:360
+msgid "Custom Post Type"
+msgstr ""
+
+#: lib/functions/widget-functions.php:361
+msgid "Display your custom post type listing."
+msgstr ""
+
+#: lib/functions/widget-functions.php:369
+msgid "Custom Posts"
+msgstr ""
+
+#: lib/functions/widget-functions.php:432
+msgid "Select Custom Post Type:"
+msgstr ""
+
+#: lib/jigoshop/jigoshop-theme-functions.php:143
+#: lib/woocommerce/woo-theme-functions.php:227
+msgid "Shop Sidebar"
+msgstr ""
+
+#: lib/jigoshop/jigoshop-theme-functions.php:145
+msgid "Widget area for Jigo Shop Pages"
+msgstr ""
+
+#: lib/sliders/jd-gallery-slider.php:29 lib/sliders/jd-gallery-slider.php:63
+msgid "Continue reading "
+msgstr ""
+
+#: lib/templates/author-bio.php:7
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: lib/templates/author-bio.php:11
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: lib/templates/default-widget.php:18
+msgid "Recent Posts"
+msgstr ""
+
+#: lib/templates/default-widget.php:22
+msgid "Pages"
+msgstr ""
+
+#: lib/templates/default-widget.php:26
+msgid "Tags"
+msgstr ""
+
+#: lib/templates/headline.php:8
+msgid "Latest News From The"
+msgstr ""
+
+#: lib/templates/headline.php:8
+msgid "Blog"
+msgstr ""
+
+#: lib/templates/headline.php:12 lib/templates/headline.php:29
+#: lib/templates/headline.php:31 lib/templates/headline.php:33
+msgid "Archives for"
+msgstr ""
+
+#: lib/templates/headline.php:16
+msgid "Tag archives for"
+msgstr ""
+
+#: lib/templates/headline.php:22
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: lib/templates/headline.php:40
+msgid "Search result for &quot;"
+msgstr ""
+
+#: lib/templates/headline.php:40
+msgid "&quot;"
+msgstr ""
+
+#: lib/templates/headline.php:44
+msgid "Archive for"
+msgstr ""
+
+#: lib/templates/home-feat-cat.php:58 lib/templates/home-feat-cat.php:84
+#: lib/templates/home-feat-cat.php:110 lib/templates/home-feat-cat.php:134
+#: lib/templates/home-feat-cat.php:158 lib/templates/home-feat-cat.php:181
+#: lib/templates/home-feat-cat.php:208 lib/templates/home-feat-cat.php:233
+#: lib/templates/home-feat-cat.php:258 lib/templates/home-feat-cat.php:282
+#: lib/templates/related.php:24 lib/templates/related.php:62
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: lib/templates/home-feat-cat.php:58 lib/templates/home-feat-cat.php:84
+#: lib/templates/home-feat-cat.php:110 lib/templates/home-feat-cat.php:134
+#: lib/templates/home-feat-cat.php:158 lib/templates/home-feat-cat.php:181
+#: lib/templates/home-feat-cat.php:208 lib/templates/home-feat-cat.php:233
+#: lib/templates/home-feat-cat.php:258 lib/templates/home-feat-cat.php:282
+msgid "Get Feed for"
+msgstr ""
+
+#: lib/templates/paginate.php:15
+msgid "Older Entries &raquo;"
+msgstr ""
+
+#: lib/templates/paginate.php:16
+msgid "&laquo; Newer Entries"
+msgstr ""
+
+#: lib/templates/result.php:1
+msgid "No Result Found!"
+msgstr ""
+
+#: lib/templates/result.php:3
+msgid ""
+"Sorry, we can't find the category you're looking for at this URL. Please try "
+"selecting a menu item from above or to the side of this message to get where "
+"you'd like to go."
+msgstr ""
+
+#: lib/templates/result.php:5
+msgid ""
+"Sorry, we can't find the archive you're looking for at this URL. Please try "
+"selecting a menu item from above or to the side of this message to get where "
+"you'd like to go."
+msgstr ""
+
+#: lib/templates/result.php:7
+msgid ""
+"Sorry, we can't find the search keyword you're looking for. Please try "
+"selecting a menu item from above or to the side of this message to get where "
+"you'd like to go."
+msgstr ""
+
+#: lib/templates/result.php:9
+msgid ""
+"Sorry, we can't find the author you're looking for at this URL. Please try "
+"selecting a menu item from above or to the side of this message to get where "
+"you'd like to go."
+msgstr ""
+
+#: lib/templates/result.php:11
+msgid ""
+"Sorry, we can't find the post you're looking for at this URL. Please try "
+"selecting a menu item from above or to the side of this message to get where "
+"you'd like to go."
+msgstr ""
+
+#: lib/templates/result.php:13 lib/templates/result.php:15
+msgid ""
+"Sorry, we can't find the content you're looking for at this URL. Please try "
+"selecting a menu item from above or to the side of this message to get where "
+"you'd like to go."
+msgstr ""
+
+#: lib/woocommerce/woo-theme-functions.php:229
+msgid "Widget area for WooCommerce Shop Pages"
+msgstr ""
+
+#: page-templates/template-blog-full-content.php:46
+#: page-templates/template-full-width.php:29
+msgid "...Continue reading"
+msgstr ""
+
+#: page-templates/template-blogroll.php:28
+msgid "Useful Resources:"
+msgstr ""
+
+#: page-templates/template-sitemap.php:35
+msgid "Archives by Month:"
+msgstr ""
+
+#: page-templates/template-sitemap.php:37
+msgid "Archives by Category:"
+msgstr ""
+
+#: page-templates/template-sitemap.php:46
+msgid "Browse Last 50 Posts:"
+msgstr ""
+
+#: page.php:29 single.php:38
+msgid "...more &raquo;"
+msgstr ""

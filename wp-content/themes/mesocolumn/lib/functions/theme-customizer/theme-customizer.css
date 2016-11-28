@@ -1,0 +1,16 @@
+#accordion-section-custom_font_section li.customize-control-select,#accordion-section-custom_featcat_section li.customize-control-select {
+    width:45%;margin:0 10px 1em 0 !important;float:left;clear:none;
+}
+
+.customize-control.customize-control-text {
+    margin:0.6785em 0;
+}
+
+#accordion-section-custom_ads_section .customize-control-title {
+    margin:1.5em 0 0;
+}
+
+
+#customize-control-custom_css textarea {
+    height:350px;
+}
